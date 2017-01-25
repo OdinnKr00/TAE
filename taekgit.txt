@@ -3,5 +3,6 @@
 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 		svar:Read Only Memory, Það geymir gögn sem er aðeins hægt að breyta hægt og rólega eða bara alls ekki svo að það er oftast notað til að geyma fasthugbúnað eða eitthvað sem er ólíklegt að þurfa að uppfæra oft
 3. Hvað er fyrirbyggjandi viðhald? 
-		Það er bara að hafa alla parta í tölvunni í sínu bestu formi þannig að ekki sé þörf á viðgerðum t.d að hreinsa ryk og fleirra
-		
+		svar:Það er bara að hafa alla parta í tölvunni í sínu bestu formi þannig að ekki sé þörf á viðgerðum t.d að hreinsa ryk og fleirra
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+		svar:Electrostatic discharge, Það eru sérstakar umbúðir fyrir búnaðinn og sérstakt armband sem hjálpar að koma í veg fyrir það 

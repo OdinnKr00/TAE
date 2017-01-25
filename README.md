@@ -29,7 +29,7 @@ fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann f
 | Gigabyte S1151 GA-Z170N-Gaming 5 móðurborð      | 24.990kr  |
 | 512GB SATA3 Plextor SSD 2.5'' M6 Pro Xtreme SSD | 49.990kr  |
 | 8TB SATA3 Seagate Archive harður diskur         | 49.990kr  |
-| ADATA 16GB DDR4 3000MHz (2x8GB) XPG Dazzle  CL16| 29.990kr  |
+| ADATA 16GB DDR4 3000MHz (2x8GB) XPG Dazzle  CL16 | 29.990kr  |
 | Thermaltake Versa N21 ATX turnkassi með glugga  | 12.990kr  |
 | Gigabyte GTX 1060 D5 skjákort 6GB GDDR5         | 49.990kr  |
 | Samtals                                         | 244.930kr |

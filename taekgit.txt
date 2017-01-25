@@ -15,4 +15,5 @@ Nefnið dæmi um báðar gerðir af spurningum.
 		svar:Open ended spurning sem gæti þurft meira en eitt orð til að svara jafnvel lista af svörun t.d Hvað ætlaru að kaupa í búðinni og þá kæmi listi af svörum, en Closed ended surning þarf oftast bara eitt orð til að svara t.d Hvernig líður þér í dag og þá kæmi vel eða illa eitthvað þannig
 8. Hvað eru jaðartæki?
 		svar:Jaðartæi eða Móðurborð er margbrotinn tölvuíhlutur sem hýsir a.m.k. einn örgjörva, tengir saman aðra tölvuíhluti og stýrir þeim. Móðurborð er oftast stök prentplata sem er fest ýmist í botn eða í hliðina á tölvukössum og er því oftast stærsti íhluturin
-		
+9. Nefndu þrjú dæmi um inntakstæki
+		svar:Lyklaborð, Mús og Myndavél

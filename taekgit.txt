@@ -8,3 +8,5 @@
 		svar:Electrostatic discharge, Það eru sérstakar umbúðir fyrir búnaðinn og sérstakt armband sem hjálpar að koma í veg fyrir það
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 		svar:Fyrst og fremst getur maður ekki keypt eitthvað ódýrt drasl það gengur ekki og gott e að áður enn þú kaupir hann að skoða gagrýni áður og sjá hvernig fólki fannst og að hann sé samrýmanlegur við tækið þitt
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+		svar:Skref1:Identify the Problem Skref2:Establish a Theory of Probable Cause Skref3:Test the Theory to Determine Cause Skref4:Establish a Plan of Action to Resolve the Problem and Implement the Solution Skref5:Verify Full System Functionality and, If Applicable, Implement Preventive Measures Skref6:Document Findings, Actions, and Outcomes

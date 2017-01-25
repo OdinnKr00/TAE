@@ -10,3 +10,6 @@
 		svar:Fyrst og fremst getur maður ekki keypt eitthvað ódýrt drasl það gengur ekki og gott e að áður enn þú kaupir hann að skoða gagrýni áður og sjá hvernig fólki fannst og að hann sé samrýmanlegur við tækið þitt
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 		svar:Skref1:Identify the Problem Skref2:Establish a Theory of Probable Cause Skref3:Test the Theory to Determine Cause Skref4:Establish a Plan of Action to Resolve the Problem and Implement the Solution Skref5:Verify Full System Functionality and, If Applicable, Implement Preventive Measures Skref6:Document Findings, Actions, and Outcomes
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+		svar:Open ended spurning sem gæti þurft meira en eitt orð til að svara jafnvel lista af svörun t.d Hvað ætlaru að kaupa í búðinni og þá kæmi listi af svörum, en Closed ended surning þarf oftast bara eitt orð til að svara t.d Hvernig líður þér í dag og þá kæmi vel eða illa eitthvað þannig
